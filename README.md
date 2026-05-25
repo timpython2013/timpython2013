@@ -24,7 +24,7 @@ B.S. Information Technology — Western Governors University
 - [**Linux-Scripting**](https://github.com/timpython2013/Linux-Scripting) — Python utilities for Linux automation
 
 #### 📫 Get in touch
-- 📧 timpython2013@gmai.com
+- 📧 timpython2013@gmail.com
 www.linkedin.com/in/tim-richardson-554158150
 
 ---
