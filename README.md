@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Tim Richardson 👋
 
-<!--
-**timpython2013/timpython2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior IT support professional with 7+ years across enterprise SaaS, MSP, and healthcare data environments — automating workflows with Python and PowerShell, and building small projects on the side to keep learning.
 
-Here are some ideas to get you started:
+Based in the Scotsboro, AL area. Open to remote roles in IT, support engineering, automation, and adjacent technical work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 What I work with day-to-day
+- **Scripting & automation:** Python, PowerShell, Bash, REST APIs
+- **Cloud & identity:** Microsoft 365, Azure, AWS, Active Directory, Okta, SSO
+- **Data & reporting:** MS SQL, Oracle SQL, PowerBI, Splunk, Jupyter
+- **Security & endpoint:** CrowdStrike, SentinelOne, MS Defender, Jamf, Addigy
+- **ITSM:** ServiceNow, Jira, ConnectWise
+
+#### 🎓 Certifications
+Security+ · Network+ · A+ · ITIL Foundations · Cloud Essentials+ · Project Management+
+B.S. Information Technology — Western Governors University
+
+#### 🚀 Side projects I'm building here
+- [**diabetes-yosemite**](https://github.com/timpython2013/diabetes-yosemite) — exploratory data analysis on a public diabetes dataset (Python, Jupyter)
+- [**bp-tracker**](https://github.com/timpython2013/bp-tracker) — a JavaScript tool for tracking blood pressure readings
+- [**car-tracker**](https://github.com/timpython2013/car-tracker) — a small HTML tracker built around getting a new passport
+- [**Linux-Scripting**](https://github.com/timpython2013/Linux-Scripting) — Python utilities for Linux automation
+
+#### 📫 Get in touch
+- 📧 timpython2013@gmai.com
+www.linkedin.com/in/tim-richardson-554158150
+
+---
+
+*Currently exploring more in Python automation, SQL, and data tooling — always open to feedback and collaboration.*
