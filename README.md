@@ -2,7 +2,7 @@
 
 Senior IT support professional with 7+ years across enterprise SaaS, MSP, and healthcare data environments — automating workflows with Python and PowerShell, and building small projects on the side to keep learning.
 
-Based in the Scotsboro, AL area. Open to remote roles in IT, support engineering, automation, and adjacent technical work.
+Based in the Gulfport, FL area. Open to remote roles in IT, support engineering, automation, and adjacent technical work.
 
 ---
 
