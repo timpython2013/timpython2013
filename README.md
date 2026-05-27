@@ -18,7 +18,6 @@ Security+ · Network+ · A+ · ITIL Foundations · Cloud Essentials+ · Project 
 B.S. Information Technology — Western Governors University
 
 #### 🚀 Side projects I'm building here
-- [**diabetes-data-analysis**](https://github.com/timpython2013/diabetes-data-analysis) — exploratory data analysis on a public diabetes dataset (Python, Jupyter)
 - [**bp-tracker**](https://github.com/timpython2013/bp-tracker) — a JavaScript tool for tracking blood pressure readings
 - [**Linux-Scripting**](https://github.com/timpython2013/Linux-Scripting) — Python utilities for Linux automation
 
